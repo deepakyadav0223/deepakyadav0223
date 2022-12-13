@@ -11,14 +11,14 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
+
 - 🔭 I’m currently working on [Apni Coaching](https://github.com/Making-Ice-Cream/bookish-octo-spork)
 
 - 🌱 I’m currently learning **Kali linux, Spring Boot, JavaFX, C#, Danjo**
 
 - 👯 I’m looking to collaborate on [Apni Coaching](https://github.com/Making-Ice-Cream/bookish-octo-spork)
 
-- 👨‍💻 All of my projects are available at [https://github.com/deepakyadav0223?tab=repositories](https://github.com/deepakyadav0223?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/deepakyadav0223?tab=repositories)
 
 - 💬 Ask me about **React.js, Node.js, MERN, Full Stack Developer, Mysql**
 
