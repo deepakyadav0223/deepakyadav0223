@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Apni Coaching](https://github.com/Making-Ice-Cream/bookish-octo-spork)
 
-- 🌱 I’m currently learning **Kali linux, Spring Boot, JavaFX, C#, Danjo**
+- 🌱 I’m currently learning **Kali linux, Spring Boot**
 
 - 👯 I’m looking to collaborate on [Apni Coaching](https://github.com/Making-Ice-Cream/bookish-octo-spork)
 
